@@ -273,14 +273,15 @@ After the 2000's, the films performed much better than before. This is perhaps b
 
 ### Files in Repository
 
-- **`SQL_Script.sql`**: Contained in the 'Script' folder. This file contains the SQL scripts for data preparation and analysis, containing the queries used. 
+- **`SQL_Script.sql`**: This file contains the SQL scripts for data preparation and analysis, containing the queries used. 
 - **`Images/`**: Folder containing exported charts from Google Sheets.
 - **'Studio Ghibli.csv/'**: Original Database by Shruthi from Kaggle
                      (https://www.kaggle.com/datasets/shruthiiiee/studio-ghibli-dataset)
                      which is also licensed under the Apache 2.0 License.
 - **'Studio Ghibli Films.csv/'**: Updated database by using update queries listed near the top of this document. This is the database used by the project, and this is also licensed under the Apache 2.0 License. All credits can be found at the top-most and
 bottom-most parts of this document. 
-- **studio_ghibli.db'**: Database created for use in VSCode, SQLite, and DB Browser for SQLite. 
+- **studio_ghibli.db'**: Database created for use in VSCode, SQLite, and DB Browser for SQLite. NOTE: This has been taken out from the depository, but you will need to create one
+ 			 to run the commands. 
 - **`README.md`**: This document.
 
 ### 
