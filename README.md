@@ -222,12 +222,13 @@ UPDATE movies SET Budget='' WHERE Name='Only Yesterday
        (1991)','Whisper of the Heart
        (1995)', 'Pom Poko' , 'Porco Rosso');
     **Result**
+   
    When graphed, there seems to be direct relation between budget and Box Office Revenue. There were only two outliers of the movies graphed. 
-       1. The Tale of Princess Kaguya: Had a much higher budget than the box office revenue. This is one of the most expensive studio ghibli films, having a budget of $49,300,000 . This budget is only topped by The Boy and the Heron. 
-       Despite its budget, it could not perform more than its budget. 
-       Perhaps the reason could lie in the differentiating factors between this movie and the other films from the Studio. It was animated using watercolor-like style, and a slower, thoughtful pace. 
-       2. My Neighbour Totoro: The Budget exceeded the Box Office Revenue probably because of the limited intitial release. After this initial period, it has since amassed enormous acclaim and revenue, and makes up for its initial days. It is now one of the most well-known and succesful Studio Ghibli Movies. 
-       The graphs can be found in the 'Images' folder, titled 'Budget and BoxOffice_Revenue' and 'Budget and BoxOffice_Revenue (2)'. 
+   
+   The Tale of Princess Kaguya: Had a much higher budget than the box office revenue. This is one of the most expensive studio ghibli films, having a budget of $49,300,000 .This budget is only topped by The Boy and the Heron, the recent release of 2023. Despite its budget, it could not perform more than its budget. Perhaps the reason could lie in the differentiating factors between this movie and the other films from the Studio. It was animated using watercolor-like style, and a slower, thoughtful pace. 
+
+
+   My Neighbour Totoro: The Budget exceeded the Box Office Revenue probably because of the limited intitial release. After this initial period, it has since amassed enormous acclaim and revenue, and makes up for its initial days. It is now one of the most well-known and succesful Studio Ghibli Movies.The graphs can be found in the 'Images' folder, titled 'Budget and BoxOffice_Revenue' and 'Budget and BoxOffice_Revenue (2)'.
 
 
 -  Which decade had the highest revenue per movie? How did these values change over the decades?
