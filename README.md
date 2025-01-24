@@ -275,8 +275,8 @@ After the 2000's, the films performed much better than before. This is perhaps b
 
 - **`SQL_Script.sql`**: This file contains the SQL scripts for data preparation and analysis, containing the queries used. 
 - **`Images/`**: Folder containing exported charts from Google Sheets.
-- **'movies.csv/'**: Updated database by using update queries listed near the top of this document. This is the database used by the project, and this is licensed under the Apache 2.0 License. All credits can be found at the top-most and bottom-most parts of this document.
-  Original Database by Shruthi from Kaggle
+- **'movies.csv/'**: Updated database by using update queries listed near the top of this document. This is the database used by the project, and this is licensed under the Apache 2.0 License. All credits can be found at the top-most and bottom-most parts of this document. Can download from here as well: 
+  Original Database(which is the version before Priyanka's edits/updates) is by Shruthi from Kaggle
                      (https://www.kaggle.com/datasets/shruthiiiee/studio-ghibli-dataset)
                      which is also licensed under the Apache 2.0 License.
 - **studio_ghibli.db'**: NOTE: This has been taken out from the depository, but you will need to create one
