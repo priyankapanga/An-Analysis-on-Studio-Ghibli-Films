@@ -155,7 +155,7 @@ UPDATE movies SET Budget='' WHERE Name='Only Yesterday
        (1991)';
 
 ### Conclusions from analysis
- ## Below are the questions, along with the queries used and conclusions drawn from results. The queries in full can be found in the script. 
+ ## Below are the questions, along with the queries used and conclusions drawn from results. The queries in their entirety can be found in the script. 
 
 -  Which movies were the most succesful?
    **Query**
