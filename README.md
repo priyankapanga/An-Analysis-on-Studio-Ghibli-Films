@@ -1,21 +1,21 @@
-# Copyright 2025 Priyanka Panga
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
+## Copyright 2025 Priyanka Panga
+## Licensed under the Apache License, Version 2.0 (the "License");
+## you may not use this file except in compliance with the License.
+## You may obtain a copy of the License at
+##
+##     http://www.apache.org/licenses/LICENSE-2.0
 #
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# The original dataset is "Studio Ghibli Dataset" from Kaggle
-# (https://www.kaggle.com/datasets/shruthiiiee/studio-ghibli-dataset),
-# which is also licensed under the Apache 2.0 License. The dataset has been
-# modified by Priyanka Panga to update some column contents, and this modified 
-# version is the one used in the project.
-#
-# The modified dataset 'movies' is uploaded on Kaggle(https://kaggle.com/datasets/ca30befe447b3b37970625788f3794d1ea91677ce8e0a4130c0a1ceea66c2077), and is also
-# licensed under the Apache 2.0 License. 
+## The original dataset is "Studio Ghibli Dataset" from Kaggle
+## (https://www.kaggle.com/datasets/shruthiiiee/studio-ghibli-dataset),
+## which is also licensed under the Apache 2.0 License. The dataset has been
+## modified by Priyanka Panga to update some column contents, and this modified 
+## version is the one used in the project.
+##
+## The modified dataset 'movies' is uploaded on Kaggle(https://kaggle.com/datasets/ca30befe447b3b37970625788f3794d1ea91677ce8e0a4130c0a1ceea66c2077), and is also
+### licensed under the Apache 2.0 License. 
 #
 
-# An-Analysis-on-Studio-Ghibli-Films
+## An-Analysis-on-Studio-Ghibli-Films
 This project uses SQL to analyse the Studio Ghibli Films, tracking the film's box office revenue across various factors like director, genre, budget, and other important factors. 
 
 
